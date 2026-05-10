@@ -29,5 +29,6 @@ I care about clean architecture, real deployment, and shipping projects that act
 ## Links
 
 - **Portfolio:** [khusanovdev.uz](https://khusanovdev.uz)
+- **LinkedIn:** [linkedin.com/in/asadbek1](https://linkedin.com/in/asadbek1)
 - **Email:** khusanovasadbek777@gmail.com
 - **Location:** Seoul, South Korea
