@@ -23,6 +23,7 @@ I care about clean architecture, real deployment, and shipping projects that act
 - [**ZuhorBooks**](https://zuhorbooks.uz) — Online book platform with rich catalog, ordering system, and reader-focused UI *(React, Express, MongoDB)*
 - [**LifeOS**](https://t.me/lifeos_uz_bot) — Life management Telegram Mini App: tasks, habits, prayer time tracking, 4-language support *(Next.js, NestJS, Python, Aiogram)*
 - [**Royal Empire Studio**](https://royalempire.uz) — Cinematic portfolio with 3D visuals, GSAP animations, and multilingual support *(Next.js, Three.js, GSAP)*
+- [**TicketCatch**](https://t.me/ticketcatch_bot) — Global flight-price watcher bot: ~140 airports, multi-source parallel scraping, per-user currency and instant price alerts *(Python, Aiogram, Web Scraping)*
 
 ---
 
