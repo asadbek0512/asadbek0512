@@ -33,4 +33,5 @@ Currently building production SaaS and Telegram platforms — open to full-stack
 
 - **Portfolio:** [khusanovdev.uz](https://khusanovdev.uz)
 - **LinkedIn:** [linkedin.com/in/asadbek1](https://linkedin.com/in/asadbek1)
+- **Telegram:** [@Khusanov_Asadbek2000](https://t.me/Khusanov_Asadbek2000)
 - **Email:** khusanovasadbek777@gmail.com
