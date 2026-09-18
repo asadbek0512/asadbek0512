@@ -61,8 +61,6 @@ Every project above runs in production on my own VPS — Docker, Nginx, SSL, CI/
 Next.js와 NestJS로 커머스 플랫폼, 텔레그램 미니앱, 백엔드 시스템을 만듭니다.
 설계부터 API, 프론트엔드, Docker·Nginx 배포와 운영까지 직접 하고 있고, 위 프로젝트는 모두 실제로 서비스 중입니다.
 
-백엔드 / 풀스택 포지션을 찾고 있습니다. 편하게 연락 주세요.
-
 ---
 
 ## Contact
