@@ -59,8 +59,7 @@ Every project above runs in production on my own VPS — Docker, Nginx, SSL, CI/
 
 서울에서 일하는 풀스택 개발자 후사노브 아사드벡입니다.
 Next.js와 NestJS로 커머스 플랫폼, 텔레그램 미니앱, 백엔드 시스템을 만듭니다.
-Docker와 Nginx로 직접 서버에 배포하고 운영까지 하고 있으며, 위 프로젝트는 모두 실제 서비스 중입니다.
-한국어 · 영어 · 러시아어 · 우즈베크어 4개 국어가 가능합니다.
+설계부터 API, 프론트엔드, Docker·Nginx 배포와 운영까지 직접 하고 있고, 위 프로젝트는 모두 실제로 서비스 중입니다.
 
 백엔드 / 풀스택 포지션을 찾고 있습니다. 편하게 연락 주세요.
 
