@@ -9,11 +9,7 @@
 
 I build production web platforms, Telegram Mini Apps, and backend systems that actually ship — clean architecture, real deployment, real users.
 
-Most of my work is end-to-end: I design the data model, build the API, write the frontend, containerize it, and run it myself behind Nginx on a VPS — with CI/CD, monitoring, and zero-downtime deploys. I care about the parts that are invisible in a demo but decide whether a product survives: sane data modeling, predictable error handling, auth done properly, and interfaces that stay fast on a mid-range phone over mobile data.
-
-Recently I've been focused on Telegram-first products and SaaS — bots and Mini Apps that sit on top of real backends rather than toy scripts — and on shipping multilingual interfaces (Uzbek · Russian · English · Korean) that feel native in each language.
-
-**Currently:** building SaaS and Telegram products · **Open to** full-stack / backend roles.
+My work is end-to-end: data model, API, frontend, then Docker and Nginx on my own VPS. Currently building SaaS and Telegram products in 4 languages. Open to full-stack / backend roles.
 
 ---
 
