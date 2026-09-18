@@ -13,6 +13,19 @@ I build production web platforms, Telegram Mini Apps, and backend systems that s
 
 ## Selected work
 
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://zinfurn.uz"><img src="https://raw.githubusercontent.com/asadbek0512/asadbek0512/main/assets/zinfurn.png" alt="Zinfurn" /></a>
+<p><b><a href="https://zinfurn.uz">Zinfurn</a></b> — furniture marketplace with AI chat assistant, real-time filtering and repair booking.<br/><sub>Next.js · NestJS · GraphQL · MongoDB</sub></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://khusanovdev.uz"><img src="https://raw.githubusercontent.com/asadbek0512/asadbek0512/main/assets/khusanovdev.png" alt="Portfolio" /></a>
+<p><b><a href="https://khusanovdev.uz">khusanovdev.uz</a></b> — personal portfolio with 3D visuals, motion design and 4-language UI.<br/><sub>Next.js · Three.js · GSAP</sub></p>
+</td>
+</tr>
+</table>
+
 | Project | What it is | Stack |
 |---|---|---|
 | [**Zinfurn**](https://zinfurn.uz) | Furniture marketplace — AI chat assistant, real-time filtering, repair booking, community | Next.js · NestJS · GraphQL · MongoDB |
@@ -35,6 +48,17 @@ Every project above runs in production on my own VPS — Docker, Nginx, SSL, CI/
 | **Data** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white) |
 | **Bots & AI** | ![Aiogram](https://img.shields.io/badge/Aiogram-2CA5E0?style=flat&logo=telegram&logoColor=white) ![Telegram Mini Apps](https://img.shields.io/badge/Mini_Apps-2CA5E0?style=flat&logo=telegram&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat&logo=googlegemini&logoColor=white) |
 | **Infra** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![Linux](https://img.shields.io/badge/Ubuntu_VPS-E95420?style=flat&logo=ubuntu&logoColor=white) ![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat&logo=pm2&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) |
+
+---
+
+## 한국어
+
+서울에서 일하는 풀스택 개발자 후사노브 아사드벡입니다.
+Next.js와 NestJS로 커머스 플랫폼, 텔레그램 미니앱, 백엔드 시스템을 만듭니다.
+Docker와 Nginx로 직접 서버에 배포하고 운영까지 하고 있으며, 위 프로젝트는 모두 실제 서비스 중입니다.
+한국어 · 영어 · 러시아어 · 우즈베크어 4개 국어가 가능합니다.
+
+백엔드 / 풀스택 포지션을 찾고 있습니다. 편하게 연락 주세요.
 
 ---
 
