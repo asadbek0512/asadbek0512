@@ -13,6 +13,7 @@ I build production web platforms, Telegram Mini Apps, and backend systems that s
 
 ## Selected work
 
+<!--
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -25,6 +26,7 @@ I build production web platforms, Telegram Mini Apps, and backend systems that s
 </td>
 </tr>
 </table>
+-->
 
 | Project | What it is | Stack |
 |---|---|---|
