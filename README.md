@@ -35,10 +35,7 @@ Every project above runs in production on my own VPS — Docker, Nginx, SSL, CI/
 
 ## Contact
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-khusanovdev.uz-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1F2328)](https://khusanovdev.uz)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-asadbek1-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1F2328)](https://linkedin.com/in/asadbek1)
-
-[![Telegram](https://img.shields.io/badge/Telegram-@Khusanov__Asadbek2000-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1F2328)](https://t.me/Khusanov_Asadbek2000)
-
-[![Email](https://img.shields.io/badge/Email-khusanovasadbek777@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1F2328)](mailto:khusanovasadbek777@gmail.com)
+<img src="https://cdn.simpleicons.org/vercel/8b949e" height="15" align="center" />&nbsp; **Portfolio:** [khusanovdev.uz](https://khusanovdev.uz)  
+<img src="https://cdn.simpleicons.org/linkedin/8b949e" height="15" align="center" />&nbsp; **LinkedIn:** [in/asadbek1](https://linkedin.com/in/asadbek1)  
+<img src="https://cdn.simpleicons.org/telegram/8b949e" height="15" align="center" />&nbsp; **Telegram:** [@Khusanov_Asadbek2000](https://t.me/Khusanov_Asadbek2000)  
+<img src="https://cdn.simpleicons.org/gmail/8b949e" height="15" align="center" />&nbsp; **Email:** [khusanovasadbek777@gmail.com](mailto:khusanovasadbek777@gmail.com)
