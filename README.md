@@ -57,14 +57,13 @@ Every project above runs in production on my own VPS — Docker, Nginx, SSL, CI/
 
 ## 한국어
 
-**후사노브 아사드벡** · 풀스택 개발자 · 서울
+서울에서 일하고 있는 풀스택 개발자 후사노브 아사드벡입니다. 프론트엔드는 Next.js와 TypeScript를, 백엔드는 NestJS와 GraphQL, MongoDB를 주로 사용합니다. 설계 단계부터 배포까지 하나의 서비스를 끝까지 완성해 본 경험이 있습니다.
 
-- **주요 스택** — 프론트엔드 Next.js · TypeScript, 백엔드 NestJS · GraphQL · MongoDB
-- **Zinfurn (가구 커머스 플랫폼)** — GraphQL API 설계, JWT 인증 및 소셜 로그인, 주문·쿠폰 로직, WebSocket 실시간 알림, 관리자 페이지 단독 개발
-- **동시성 처리** — 쿠폰 사용량 원자적 갱신을 통한 중복 사용 차단
-- **다국어 지원** — AI 기반 상품·게시글 자동 번역 파이프라인 구축
-- **텔레그램 서비스** — Python(Aiogram) 기반 봇 및 미니앱 개발·운영
-- **배포 및 인프라** — Docker 빌드, VPS 내 Nginx·PM2 구성, GitHub Actions 자동 배포, 도메인 및 SSL 관리
+가장 오래 작업한 프로젝트는 가구 커머스 플랫폼 Zinfurn입니다. 데이터 모델과 GraphQL API를 설계하고, JWT 기반 인증과 소셜 로그인, 주문 및 쿠폰 로직, WebSocket 실시간 알림, 관리자 페이지까지 직접 구현했습니다. 쿠폰은 여러 요청이 동시에 들어와도 사용 한도를 넘지 않도록 원자적으로 처리했고, 상품과 게시글은 AI 번역 파이프라인을 통해 자동으로 다국어로 제공됩니다.
+
+이 외에도 Python과 Aiogram으로 텔레그램 봇과 미니앱을 만들어 운영하고 있습니다.
+
+배포와 인프라도 직접 맡고 있습니다. Docker로 이미지를 빌드하고 VPS에서 Nginx와 PM2로 서비스를 운영하며, GitHub Actions로 배포를 자동화했습니다. 도메인 연결과 SSL 인증서 관리까지 스스로 처리하고 있습니다.
 
 ---
 
