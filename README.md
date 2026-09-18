@@ -33,15 +33,9 @@ Every project above runs in production on my own VPS — Docker, Nginx, SSL, CI/
 
 ---
 
-## Beyond code
+## Links
 
-Uzbek · English · Russian · Korean — I design i18n systems for the languages I actually speak.
-
----
-
-## Contact
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-khusanovdev.uz-0A0A0A?style=flat&logo=vercel&logoColor=white)](https://khusanovdev.uz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-asadbek1-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/asadbek1)
-[![Telegram](https://img.shields.io/badge/Telegram-@Khusanov__Asadbek2000-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Khusanov_Asadbek2000)
-[![Email](https://img.shields.io/badge/Email-khusanovasadbek777@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:khusanovasadbek777@gmail.com)
+- **Portfolio:** [khusanovdev.uz](https://khusanovdev.uz)
+- **LinkedIn:** [linkedin.com/in/asadbek1](https://linkedin.com/in/asadbek1)
+- **Telegram:** [@Khusanov_Asadbek2000](https://t.me/Khusanov_Asadbek2000)
+- **Email:** khusanovasadbek777@gmail.com
