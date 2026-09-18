@@ -58,8 +58,15 @@ Every project above runs in production on my own VPS — Docker, Nginx, SSL, CI/
 ## 한국어
 
 서울에서 일하는 풀스택 개발자 후사노브 아사드벡입니다.
-Next.js와 NestJS로 커머스 플랫폼, 텔레그램 미니앱, 백엔드 시스템을 만듭니다.
-설계부터 API, 프론트엔드, Docker·Nginx 배포와 운영까지 직접 하고 있고, 위 프로젝트는 모두 실제로 서비스 중입니다.
+프론트엔드는 Next.js와 TypeScript, 백엔드는 NestJS와 MongoDB를 주로 사용합니다.
+
+대표 프로젝트는 가구 커머스 플랫폼 **Zinfurn**입니다. GraphQL API 설계, JWT 인증과 소셜 로그인, 주문·쿠폰 처리, WebSocket 실시간 알림, 관리자 페이지까지 혼자 개발했습니다. 쿠폰 사용은 동시 요청에도 초과되지 않도록 원자적으로 처리했고, 상품 정보는 AI로 5개 언어에 자동 번역됩니다.
+
+그 외에 Python(Aiogram)으로 텔레그램 봇과 미니앱을 만들어 운영하고 있습니다.
+
+배포와 운영도 직접 합니다. Docker로 빌드하고 VPS에서 Nginx와 PM2로 서비스하며, GitHub Actions로 자동 배포합니다. 도메인, SSL, 서버 관리까지 제가 맡고 있습니다.
+
+위 프로젝트는 데모가 아니라 모두 실제로 운영 중인 서비스입니다.
 
 ---
 
