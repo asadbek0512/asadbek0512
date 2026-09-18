@@ -35,7 +35,7 @@ Every project above runs in production on my own VPS — Docker, Nginx, SSL, CI/
 
 ## Contact
 
-<img src="https://cdn.simpleicons.org/vercel/8b949e" height="15" align="center" />&nbsp; **Portfolio:** [khusanovdev.uz](https://khusanovdev.uz)  
-<img src="https://cdn.simpleicons.org/linkedin/8b949e" height="15" align="center" />&nbsp; **LinkedIn:** [in/asadbek1](https://linkedin.com/in/asadbek1)  
-<img src="https://cdn.simpleicons.org/telegram/8b949e" height="15" align="center" />&nbsp; **Telegram:** [@Khusanov_Asadbek2000](https://t.me/Khusanov_Asadbek2000)  
-<img src="https://cdn.simpleicons.org/gmail/8b949e" height="15" align="center" />&nbsp; **Email:** [khusanovasadbek777@gmail.com](mailto:khusanovasadbek777@gmail.com)
+<img src="https://cdn.simpleicons.org/vercel/black/white" height="16" align="center" />&nbsp; **Portfolio:** [khusanovdev.uz](https://khusanovdev.uz)  
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="16" align="center" />&nbsp; **LinkedIn:** [in/asadbek1](https://linkedin.com/in/asadbek1)  
+<img src="https://cdn.simpleicons.org/telegram/26A5E4" height="16" align="center" />&nbsp; **Telegram:** [@Khusanov_Asadbek2000](https://t.me/Khusanov_Asadbek2000)  
+<img src="https://cdn.simpleicons.org/gmail/EA4335" height="16" align="center" />&nbsp; **Email:** [khusanovasadbek777@gmail.com](mailto:khusanovasadbek777@gmail.com)
