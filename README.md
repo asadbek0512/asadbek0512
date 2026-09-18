@@ -35,10 +35,10 @@ Every project above runs in production on my own VPS — Docker, Nginx, SSL, CI/
 
 ## Contact
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=flat&logo=vercel&logoColor=white)](https://khusanovdev.uz) &nbsp;[khusanovdev.uz](https://khusanovdev.uz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-khusanovdev.uz-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1F2328)](https://khusanovdev.uz)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/asadbek1) &nbsp;[linkedin.com/in/asadbek1](https://linkedin.com/in/asadbek1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-asadbek1-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1F2328)](https://linkedin.com/in/asadbek1)
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Khusanov_Asadbek2000) &nbsp;[@Khusanov_Asadbek2000](https://t.me/Khusanov_Asadbek2000)
+[![Telegram](https://img.shields.io/badge/Telegram-@Khusanov__Asadbek2000-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1F2328)](https://t.me/Khusanov_Asadbek2000)
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:khusanovasadbek777@gmail.com) &nbsp;[khusanovasadbek777@gmail.com](mailto:khusanovasadbek777@gmail.com)
+[![Email](https://img.shields.io/badge/Email-khusanovasadbek777@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1F2328)](mailto:khusanovasadbek777@gmail.com)
